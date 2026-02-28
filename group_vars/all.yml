@@ -1,0 +1,7 @@
+minimum_disk_required_gb: 2
+
+approved_patch_window_start:
+
+approved_patch_window_end:
+
+enforce_patch_window: true
